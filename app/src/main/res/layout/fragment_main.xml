@@ -11,7 +11,7 @@
 
         <variable
             name="products"
-            type="List&lt;Product"></variable>
+            type="List&lt;Product>"></variable>
     </data>
 
 
